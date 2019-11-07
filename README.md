@@ -17,7 +17,9 @@ Linux. В зависимости от устройства скрипт выво
 python3 test_dev.py
 ```
 Пример вывода:
+```
 dev/sda disk 8,4G
+```
 
 
 Задача 3 -- integrity.py
