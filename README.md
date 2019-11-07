@@ -36,5 +36,7 @@ python3 test_dev.py
 integrity.py <путь к файлу> <путь к директории, содержащей файлы>
 ```
 Пример вывода:
+```
 file_01.bin OK
 file_02.bin FAIL
+```
