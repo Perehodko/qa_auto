@@ -18,7 +18,7 @@ python3 test_dev.py
 ```
 Пример вывода:
 ```
-dev/sda disk 8,4G
+/dev/sda disk 8,4G
 ```
 
 
